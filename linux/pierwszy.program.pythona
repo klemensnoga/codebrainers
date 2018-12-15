@@ -1,0 +1,7 @@
+print("Przedstaw sie")
+imie = input()
+
+print("Wtiaj ", imie)
+
+for znak in imie:
+    print(znak)
